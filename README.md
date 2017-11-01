@@ -2,6 +2,8 @@
 
 Start the util with com.donnybiddappa.socgen.Main {absolute path to input file}
 
+Sample input file can be found here /src/test/java/input.txt
+
 You can run all tests using IDE no test suite is created.  
 
 Documentation for code is absolutely minimal and descriptive Classes and methods were preferred 
