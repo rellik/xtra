@@ -1,7 +1,6 @@
-package com.donnybiddappa.socgen;
+package com.db.socgen;
 
 import java.math.BigDecimal;
-import java.util.List;
 
 /**
  * Created by Admin on 31-Oct-17.

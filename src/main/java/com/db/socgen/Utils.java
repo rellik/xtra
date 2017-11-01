@@ -1,4 +1,4 @@
-package com.donnybiddappa.socgen;
+package com.db.socgen;
 
 import java.math.BigDecimal;
 

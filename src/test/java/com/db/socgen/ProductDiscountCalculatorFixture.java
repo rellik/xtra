@@ -1,4 +1,4 @@
-package com.donnybiddappa.socgen;
+package com.db.socgen;
 
 /**
  * Created by Admin on 01-Nov-17.

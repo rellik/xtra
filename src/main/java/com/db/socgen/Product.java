@@ -1,8 +1,6 @@
-package com.donnybiddappa.socgen;
+package com.db.socgen;
 
 import java.math.BigDecimal;
-import java.math.BigInteger;
-import java.nio.DoubleBuffer;
 
 /**
  * Created by Admin on 31-Oct-17.

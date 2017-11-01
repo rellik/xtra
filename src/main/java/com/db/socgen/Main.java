@@ -1,4 +1,4 @@
-package com.donnybiddappa.socgen;
+package com.db.socgen;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.math.BigDecimal;
 import java.net.URISyntaxException;
 import java.util.*;
 
-import static com.donnybiddappa.socgen.Utils.decimal;
+import static com.db.socgen.Utils.decimal;
 
 /**
  * Fun at the Mall

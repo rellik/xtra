@@ -1,10 +1,9 @@
-package com.donnybiddappa.socgen;
+package com.db.socgen;
 
 import org.junit.Assert;
 import org.junit.Test;
 
 import java.math.BigDecimal;
-import java.util.Arrays;
 
 /**
  * Created by Admin on 31-Oct-17.
