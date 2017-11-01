@@ -1,6 +1,6 @@
 # xtra
 
-Start the util with com.donnybiddappa.socgen.Main {absolute path to input file}
+Start the util with com.db.socgen.Main {absolute path to input file}
 
 Sample input file can be found here /src/test/java/input.txt
 
