@@ -13,7 +13,7 @@ Assumptions:
 
 1. The brand, category and discount information to be hardcoded.
 2. Processing of input file not very important... therefore code test coverage is 0% for input file processig.
-3. Category heirarchy assumed to be in the following structure.
+3. Category heirarchy assumed to be in the following structure. And not very deep!
        
        Category discounts:
        
